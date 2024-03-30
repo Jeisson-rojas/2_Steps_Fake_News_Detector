@@ -1,4 +1,4 @@
 Use the code with the following file in CSV-
-1.	Test
-2.	Train
-3.	New_news
+- Concatenate or append trains 1,2 and 3 and later use them as a train.
+-	train
+-	new_news
